@@ -14,7 +14,7 @@ kotlin {
 
     cocoapods {
         summary = "Some description for the Shared Module"
-        homepage = "Link to the Shared Module homepage"
+        homepage = "https://github.com/d1mster/SharedModule"
         ios.deploymentTarget = "11.0"
         framework {
             baseName = "DimaLib"
